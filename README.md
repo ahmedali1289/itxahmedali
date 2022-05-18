@@ -1,4 +1,9 @@
-<img syle="width:100%;" src="https://avatars.githubusercontent.com/u/61229648?s…00&u=5706d55f566c474605a71791e42a4f6a8dca8688&v=4"/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itxahmedali&show_icons=true&theme=dark)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=itxahmedali&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itxahmedali&layout=compact)](https://github.com/itxahmedali/github-readme-stats)
+
 <div id="badges">
   </a>
    <a href="https://www.linkedin.com/in/ahmed-ali-13108320b/">
@@ -17,10 +22,3 @@
       <img src="https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
   </a>   
 </div>
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itxahmedali&show_icons=true&theme=dark)
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=itxahmedali&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itxahmedali&layout=compact)](https://github.com/itxahmedali/github-readme-stats)
