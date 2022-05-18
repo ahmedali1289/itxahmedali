@@ -1,4 +1,4 @@
-<img src="https://avatars.githubusercontent.com/u/61229648?s…00&u=5706d55f566c474605a71791e42a4f6a8dca8688&v=4"/>
+<img syle="width:100%;" src="https://avatars.githubusercontent.com/u/61229648?s…00&u=5706d55f566c474605a71791e42a4f6a8dca8688&v=4"/>
 <div id="badges">
   </a>
    <a href="https://www.linkedin.com/in/ahmed-ali-13108320b/">
