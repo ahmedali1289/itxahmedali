@@ -1,3 +1,14 @@
+### Hi there 👋
+
+- 🔭 I’m currently working on JavaScript, TypeScript, Angular, React-Native, and ReactJs.
+- 🌱 I’m currently learning NodeJs.
+- 👯 I’m looking to collaborate on more Open Source Projects
+- 📫 How to reach me ahmedakhter1289@gmail.com
+
+<br/>
+<br/>
+<br/>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itxahmedali&show_icons=true&theme=dark)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=itxahmedali&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
