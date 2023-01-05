@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on JavaScript, TypeScript, Angular, React-Native, and ReactJs.
-- 🌱 I’m currently learning NodeJs.
+- 🌱 I’m currently learning Blockchain.
 - 👯 I’m looking to collaborate on more Open Source Projects
 - 📫 How to reach me ahmedakhter1289@gmail.com
 
